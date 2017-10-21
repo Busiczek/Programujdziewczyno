@@ -130,7 +130,10 @@ nav {
   color: #424343;
   padding: 1rem 3rem;
 }
-
+.more {
+    display: none;
+}
+}
 .circle {
 	border-radius: 50%;
   padding: 4rem;
